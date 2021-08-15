@@ -1,5 +1,4 @@
-﻿#define GITMANIK_CONSOLE_USED
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 using System;
