@@ -1,0 +1,13 @@
+{
+    "name": "com.gitmanik.gitmanikconsole",
+    "displayName": "Gitmanik Console",
+    "version": "1.0.0",
+    "unity": "2020.3",
+    "description": "In-game console made entirely by Gitmanik." ,
+    "keywords": [
+        "console",
+        "runtime",
+        "unity"
+    ],
+    "category": "Unity"
+}
